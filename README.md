@@ -6,4 +6,4 @@
 
 
 ## 专栏
-[segmentfault]（https://segmentfault.com/u/enggirl/articles '悬停显示'）
+https://segmentfault.com/u/enggirl/articles
